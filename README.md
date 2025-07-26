@@ -137,10 +137,10 @@ The dataset contains daily records with meteorological and fire indices as featu
 
 ## Results
 
-- The [best model] achieved:
-  - **RMSE:** XX.XX
-  - **MAE:** XX.XX
-  - **R² Score:** X.XX
+- The best model was Ridge Regression achieved based on the below metrics:
+  - **RMSE:** 
+  - **MAE:** 
+  - **R² Score:** 
 
 - Feature importance analysis showed that Temperature ,RH,Ws Rain,FFMC,DMC,ISI,Classes,Regions were the most influential in predicting FWI.
 
